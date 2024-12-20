@@ -361,7 +361,7 @@ def get_introduction_summary():
         db_connection.close()
 
 # 자기소개서 디자인 생성 
-openai.api_key = "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"
+openai.api_key = " ----- "
 @app.route('/generate_design', methods=['POST'])
 def generate_design_endpoint():
     data = request.get_json()
@@ -726,7 +726,7 @@ def face_detection():
 
 ##################챗봇 부분#################  
 # LangChain 설정
-openai.api_key = "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"
+openai.api_key = " ----- "
 
 # 전역 변수로 유지
 llm = LangchainOpenAI(model="gpt-4", temperature=1.0, max_tokens=500)
