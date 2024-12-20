@@ -14,7 +14,7 @@ from transformers import pipeline
 #이미지 캡션 라이브러리
 from azure_service import generate_caption, extract_nouns
 #자기소개서
-openai.api_key = "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"
+openai.api_key = " -----  "
 
 #자기소개서 유사도분석 라이브러리
 from sentence_transformers import SentenceTransformer, util
