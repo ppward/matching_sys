@@ -24,6 +24,6 @@
 ## 👋️ 팀원 소개  
 | 이름 | 역할 |  
 | ---- | ---- |  
-| [이슬희](https://github.com/leeseulhui) | AI |
-| [박기표](https://github.com/ppward) | Frontend(React Native) |  
-| [강구용](https://github.com/kangguyong) | AI |
+| [이슬희](https://github.com/leeseulhui) | AI, Backend |
+| [박기표](https://github.com/ppward) | Frontend(React Native), Server |  
+| [강구용](https://github.com/kangguyong) | Backend |
