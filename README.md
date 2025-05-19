@@ -44,12 +44,12 @@
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![reactnative](https://img.shields.io/badge/reactnative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Server
+### 🌐 Server
 ![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff&style=for-the-badge)
 ![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![express](https://img.shields.io/badge/express-black?logo=express&logoColor=fff&style=for-the-badge)
 
-### Database
+### 🗄️ Database
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
@@ -59,7 +59,7 @@
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-### etc
+### 🧰 etc
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 
